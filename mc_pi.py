@@ -1,3 +1,6 @@
+#This is numercial estimate of pi based on Monte Carlo method using unit circle inscribed in rectangle.
+#Outputs pi estimate in terminal and also plot based on number of random points selected.
+
 import random as r
 import numpy as np
 import matplotlib.pyplot as plt
