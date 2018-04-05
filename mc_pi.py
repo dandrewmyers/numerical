@@ -1,4 +1,4 @@
-#This is numercial estimate of pi based on Monte Carlo method using unit circle inscribed in rectangle.
+#This is numerical estimate of pi based on Monte Carlo method using unit circle inscribed in rectangle.
 #Outputs pi estimate in terminal and also plot based on number of random points inputed by user.
 #This code based on previous version at https://gist.github.com/louismullie/3769218.
 
